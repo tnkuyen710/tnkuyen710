@@ -1,7 +1,7 @@
 # Hey there! 🌟🙋🏻‍♀️
 
-I'm Uyen, a curious mind with a passion for **data, strategy, and tech**. 
-My journey so far? A mix of **strategy, analytics, project management, and marketing** across industries like **automotive, finance, energy trading & commodities, retail & consumer goods, event & media publishing**.
+I'm Uyen, a curious mind with a passion for data, strategy, and tech. </br>
+My journey so far? A mix of strategy, analytics, project management, and marketing across industries like automotive, finance, energy trading & commodities, retail & consumer goods, event & media publishing.
 
 ### What I work with
 💻 **Tech & Tools**: Python, JavaScript, R, SQL, HTML/CSS, Power BI, Jira, Confluence, Adobe Creative Suite </br>

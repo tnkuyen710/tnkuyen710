@@ -8,13 +8,13 @@ My journey so far? A mix of strategy, analytics, project management, and marketi
 🌏 **Languages**: Fluent in English & Vietnamese, currently leveling up my German, Japanese, and Korean
 
 ### What I'm into
-I'm all about data science, machine learning, Natural Language Processing (NLP), and Large Language Models (LLMs) — basically anything that turns raw data into insights that matter! 🤖 
+I'm all about Data Science, Machine Learning, Natural Language Processing (NLP), and Large Language Models (LLMs) — anything that turns raw data into insights that matter! 🤖 
 
 ### Where I've been
 🚀 I've lived, studied, and worked in Ho Chi Minh, Tokyo, Yokohama, Oita, Frankfurt, Stuttgart, Marburg, and München — constantly learning from new environments and perspectives! 🇻🇳🇯🇵🇩🇪 
 
 ### Beyond study and work...
-Outside of coding and crunching numbers, you’ll find me behind a camera 📸, refining my fencing skills 🤺 , or diving into new challenges...
+Outside of coding and crunching numbers, I also love doing photography 📸, and currently being interested in fencing 🤺, and thinking about diving into new challenges...
 
 ### 📫 How to reach me
 Email: tracy.uyentran@gmail.com </br>

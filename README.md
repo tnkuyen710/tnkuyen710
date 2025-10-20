@@ -19,3 +19,4 @@ Outside of coding and crunching numbers, I also love doing photography 📸, cur
 ### 📫 How to reach me
 Email: tracy.uyentran@gmail.com </br>
 LinkedIn: https://www.linkedin.com/in/tracy-uyentran/
+Digital Portfolio: https://tnkuyen.wixsite.com/uyenfolio
